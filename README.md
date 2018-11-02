@@ -1,7 +1,3 @@
-MPCS52011 Project 6
-README -- Assembler
-By: Jason Goode
-
 About
 -----
 This program was written in Python 3.
