@@ -1,12 +1,12 @@
-*** About
+### About
 This program was written in Python 3.
 It takes in assembly language (.asm) and outputs corresponding binary machine code (.hack)
 
-*** To Run Program:
+### To Run Program:
 
 `./assembler.py [filepath.asm]`
 
-*** Notes
+### Notes
 
 - assembler.py should be permissioned to run as an executable. Just in case it doesn't work, run <chmod u+x assembler.py>
 - You must specify a valid .asm file paths as the first argument; otherwise the program will not run
